@@ -1,3 +1,8 @@
 This is Sample File 1
 
+
 Sample message text added.
+
+
+This is Comparison lecture
+
