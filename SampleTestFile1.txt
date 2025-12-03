@@ -6,3 +6,4 @@ Sample message text added.
 
 This is Comparison lecture
 
+This is Stash lecture, Change in File 1
